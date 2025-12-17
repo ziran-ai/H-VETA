@@ -4,7 +4,7 @@
  
  金融时序预测的体制感知混合专家模型（Regime-Aware Mixture-of-Experts for Financial Forecasting）
  
- ![H-VETA Architecture](figures/fig1_architecture.png)
+ ![H-VETA Architecture](figures/image.png)
  
  ---
  
